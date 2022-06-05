@@ -1,0 +1,7 @@
+---
+applications:
+- name: weatherapp_batch2
+  host: weatherapp1_batch2
+  buildpack: nodejs_buildpack
+  memory: 128M
+  command: node server
