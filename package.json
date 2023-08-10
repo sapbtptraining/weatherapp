@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bmorelli25/simple-nodejs-weather-app.git"
+        "url": "git+https://github.com/sapbtptraining/weatherapp"
     },
     "author": "brandon morelli",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/bmorelli25/simple-nodejs-weather-app/issues"
+        "url": "https://github.com/sapbtptraining/weatherapp/issues"
     },
-    "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
+    "homepage": "https://github.com/sapbtptraining/weatherapp#readme",
     "dependencies": {
         "body-parser": "^1.17.2",
         "dotenv": "^10.0.0",
